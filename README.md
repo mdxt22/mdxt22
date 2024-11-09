@@ -1,4 +1,5 @@
 ## Olá! E sou a Amanda Araujo 👋
+Este perfil esta em construção ⚙️🔨
 
 <div>
   <a href="https://github.com/mdxt22">  
