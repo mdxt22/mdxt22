@@ -2,7 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandadesaraujo/)
 
-[![Amanda's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mdxt22&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdxt22&layout=compact)
+[![Amanda's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mdxt22&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdxt22&layout=compact)
 
 ## Algumas das tecnologias que utilizo:
 
