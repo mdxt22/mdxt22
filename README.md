@@ -6,8 +6,6 @@
   <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdxt22&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div>
 
-![Snake animation](https://github.com/mdxt22/mdxt22/blob/output/github-contribution-grid-snake.svg)
-
 ## Algumas das tecnologias que utilizo:
 
 <div style="display: inline_block"></br>
@@ -34,3 +32,5 @@
   
 ##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandadesaraujo/)
+
+![Snake animation](https://github.com/mdxt22/mdxt22/blob/output/github-contribution-grid-snake.svg)
